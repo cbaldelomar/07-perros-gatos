@@ -1,0 +1,3 @@
+/data/
+/dogs-vs-cats/train/*
+!/dogs-vs-cats/train/.gitkeep
